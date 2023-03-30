@@ -1,3 +1,3 @@
 # quickask-react-next
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nextjs-kxapgu)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/quickask-react-next)
